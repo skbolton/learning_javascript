@@ -8,3 +8,5 @@ This is not my first hello world I have done in javascript (I am actually a litt
 
 ## Chapter 2 - Development Tool
 Super excited for this chapter as I am a tool junkie and love this stuff. Also happy that in this chapter he is going with gulp and not grunt *I really don't like grunt's way of doing things*
+
+This chapter was a very good one for me to work through. I haven't done a lot with build tools as they generally require a lot of tinkering to set up. I think that gulp is way faster than grunt and look forward to using it. This was also the first time that I have ever used babel to work with es2015 code. Babel is not as hard as I thought it was going to be. I think from now on I will use it in my projects. ESLint was also fun to work with. I had to do a little bit of digging to find out how to set up the rules of it. I hope to use it more often as well.

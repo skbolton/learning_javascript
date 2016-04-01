@@ -1,7 +1,7 @@
 'use strict';
 // es6 feature: block-scoped "let" declaration
 const sentences = [
-  { subject: 'JavaScript', verb: 'is', obect: 'great' },
+  { subject: 'JavaScript', verb: 'is', object: 'great' },
   { subject: 'Hippos', verb: 'are', object: 'large' },
 ];
 // es6 feature: object destructuring
@@ -11,5 +11,5 @@ function say({ subject, verb, object }) {
 }
 // es6 feature: for..of
 for(let s of sentences) {
-  say(s)
+  say(s);
 }
